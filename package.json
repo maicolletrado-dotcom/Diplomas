@@ -1,0 +1,8 @@
+{
+  "name": "premios-diplomas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/assign.test.mjs"
+  }
+}
